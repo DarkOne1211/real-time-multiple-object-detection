@@ -1,0 +1,2 @@
+#! /bin/bash
+python2.7 real_time_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt -m MobileNetSSD_deploy.caffemodel -c 0.9
